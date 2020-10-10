@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bookstore>
+  <book category="Фэнтези" cover="paperback">
+    <title lang="Русский">Битва за Средиземье</title>
+    <year>2004</year>
+    <price>34.23</price>
+    <author>Джон Моррис</author>
+    <author>Эндрю Стивенс</author>
+    <author>Билл Коуч</author>
+  </book>
+  <book category="Ботаника" cover="мягкая">
+    <title lang="Ливийский">Самаркандские персики</title>
+    <year>1992</year>
+    <price>12.32</price>
+    <author>Райан Вальд</author>
+    <author>Дин Гроссман</author>
+  </book>
+</bookstore>

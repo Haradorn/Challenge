@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2019\Projects\Challenge\Challenge\bin\Debug\Challenge.exe.config
+C:\Users\User\Documents\Visual Studio 2019\Projects\Challenge\Challenge\bin\Debug\Challenge.exe
+C:\Users\User\Documents\Visual Studio 2019\Projects\Challenge\Challenge\bin\Debug\Challenge.pdb
+C:\Users\User\Documents\Visual Studio 2019\Projects\Challenge\Challenge\obj\Debug\Challenge.mainForm.resources
+C:\Users\User\Documents\Visual Studio 2019\Projects\Challenge\Challenge\obj\Debug\Challenge.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2019\Projects\Challenge\Challenge\obj\Debug\Challenge.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2019\Projects\Challenge\Challenge\obj\Debug\Challenge.exe
+C:\Users\User\Documents\Visual Studio 2019\Projects\Challenge\Challenge\obj\Debug\Challenge.pdb
+C:\Users\User\Documents\Visual Studio 2019\Projects\Challenge\Challenge\obj\Debug\Challenge.bookForm.resources
+C:\Users\User\Documents\Visual Studio 2019\Projects\Challenge\Challenge\obj\Debug\Challenge.csprojAssemblyReference.cache
